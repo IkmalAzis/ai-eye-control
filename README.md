@@ -10,8 +10,8 @@ mouse or keyboard. The prototype was demonstrated running on an **Intel trainer 
 
 ## Screenshots
 
-![Prototype running on an Intel trainer kit](assets/setup.jpg)
-![FaceMesh iris tracking](assets/facemesh.jpg)
+![Prototype running on an Intel trainer kit](assets/setup.jpeg)
+![FaceMesh iris tracking](assets/facemesh.png)
 
 ## What It Does
 
