@@ -3,10 +3,15 @@
 A prototype hands-free computer-control system that tracks **eye/iris movement** to trigger
 actions — built as an accessibility experiment during an internship. The goal: explore whether
 gaze and blink gestures alone can drive basic computer interaction for users who can't rely on a
-mouse or keyboard.
+mouse or keyboard. The prototype was demonstrated running on an **Intel trainer kit**.
 
 <!-- Optional: add a short screen-recording GIF -->
 <!-- ![demo](assets/demo.gif) -->
+
+## Screenshots
+
+![Prototype running on an Intel trainer kit](assets/setup.jpg)
+![FaceMesh iris tracking](assets/facemesh.jpg)
 
 ## What It Does
 
